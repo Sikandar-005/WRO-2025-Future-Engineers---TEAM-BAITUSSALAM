@@ -8,3 +8,10 @@ Our team thrives on collaboration, critical thinking, and hands-on problem-solvi
 With a strong belief in learning by doing, we’ve embraced cutting-edge technologies such as ROS2, IMUs, line sensors, and custom-designed 3D parts to meet the demands of the competition.
 
 We are not just participants—we are future engineers preparing to shape the world.
+# 🌍 Where We Come From
+We are a team of aspiring engineers from different cities across Pakistan, brought together by a common passion for robotics and innovation. What unites us is Jamia Baitussalam — an institute where modern science and classical education go hand in hand.
+
+At Jamia Baitussalam, we’re not just students — we’re innovators. The institution fosters a unique blend of Islamic education, modern sciences, and cutting-edge technology. With access to state-of-the-art robotics labs, 3D printing, programming, and AI resources, we are encouraged to explore, invent, and lead.
+
+Our journey in WRO 2025 is a reflection of what Baitussalam stands for: bridging the gap between tradition and technology, and empowering youth to become ethical, forward-thinking engineers of tomorrow.
+
