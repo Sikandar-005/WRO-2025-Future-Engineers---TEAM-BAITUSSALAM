@@ -11,7 +11,7 @@ This repository presents our self-made robotic system, designed acoording to the
 2. [Where DO WE COME FROM(The participants)?](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#-where-do-we-come-fromthe-participants)
 3. [Our Journey](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#-our-journey-)
 .HARDWARE and COMPONENTS
-1. []()
+1. [Raspberry pi 5](https://private-user-images.githubusercontent.com/223995462/476300869-f6b54607-f8fc-4b6a-986e-6b2b88c25254.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ3NjMxOTcsIm5iZiI6MTc1NDc2Mjg5NywicGF0aCI6Ii8yMjM5OTU0NjIvNDc2MzAwODY5LWY2YjU0NjA3LWY4ZmMtNGI2YS05ODZlLTZiMmI4OGMyNTI1NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwOVQxODA4MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYjhjNGM2MjIzNTdiOGMwOTIyZTViNWQ3ZGU1NDc0NmJjYzUwYjRiNzEzMjUwYmE4YjU2Y2UzMTk1MTA3NWE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JQGuUZLFA970GGW47Ol3k4UTDNsKQGBqKkJDPTNYjSQ)
 2. []()
 3. []()
 4. []()
