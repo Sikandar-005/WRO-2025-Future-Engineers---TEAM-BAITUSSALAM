@@ -10,8 +10,13 @@ This repository presents our self-made robotic system, designed acoording to the
 1. [WHO ARE WE?](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#who-are-we)
 2. [Where DO WE COME FROM(The participants)?](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#-where-do-we-come-fromthe-participants)
 3. [Our Journey](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#-our-journey-)
-4. [Hardware and components](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM#hardware-and-components)
-
+.HARDWARE and COMPONENTS
+1. []()
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
 # Who are we?
 
 We are a passionate and creative team of young innovators representing our school/country in the WRO 2025 Future Engineers category. Driven by curiosity and a shared vision for a better future, we bring together skills in robotics, programming, engineering design, and teamwork to solve real-world challenges.
