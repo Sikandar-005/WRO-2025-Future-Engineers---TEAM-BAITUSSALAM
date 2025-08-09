@@ -1,6 +1,9 @@
 
 # WRO 2025 Future Engineers – TEAM BAITUSSALAM
 
+# Jamia Baitussalam
+https://images.app.goo.gl/5QmjV4MwxjojHmi3A
+
 This repository presents our self-made robotic system, designed acoording to the WRO 2025 (Future Engineers) theme challenge. We use a combination of different mechanics, smart sensors, different algorithms, and autonomous decision-making to solve a real-world problem through a functional, scalable prototype.
 
 # Content Table
@@ -28,7 +31,7 @@ Our journey in WRO 2025 is a reflection of what Baitussalam stands for: bridging
 
 # 🚀 Our Journey 🌟
 
-We are three teammates — Taha Umere, Zulqarnain, and Sikandar — bound together by friendship, teamwork, and a shared passion for technology. We study at Jamia Baitussalam Talagang, an Islamic institute that nurtures both academic excellence and strong moral values.
+We are three teammates — Taha Umer, Zulqarnain, and Sikandar — bound together by friendship, teamwork, and a shared passion for technology. We study at Jamia Baitussalam Talagang, an Islamic institute that nurtures both academic excellence and strong moral values.
 
 Our journey began with a simple idea: to step into the world of robotics and engineering through the WRO 2025 Future Engineers challenge. With limited resources but unlimited determination, we started from simple programmes — learning new tools, exploring new technologies, and understanding the real-world applications of robotics.
 
