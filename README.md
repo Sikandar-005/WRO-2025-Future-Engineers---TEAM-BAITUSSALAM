@@ -11,7 +11,7 @@ This repository presents our self-made robotic system, designed acoording to the
 2. [Where DO WE COME FROM(The participants)?](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#-where-do-we-come-fromthe-participants)
 3. [Our Journey](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#-our-journey-)
 .HARDWARE and COMPONENTS
-1. [Raspberry pi 5](https://private-user-images.githubusercontent.com/223995462/476300869-f6b54607-f8fc-4b6a-986e-6b2b88c25254.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ3NjMxOTcsIm5iZiI6MTc1NDc2Mjg5NywicGF0aCI6Ii8yMjM5OTU0NjIvNDc2MzAwODY5LWY2YjU0NjA3LWY4ZmMtNGI2YS05ODZlLTZiMmI4OGMyNTI1NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwOVQxODA4MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYjhjNGM2MjIzNTdiOGMwOTIyZTViNWQ3ZGU1NDc0NmJjYzUwYjRiNzEzMjUwYmE4YjU2Y2UzMTk1MTA3NWE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JQGuUZLFA970GGW47Ol3k4UTDNsKQGBqKkJDPTNYjSQ)
+1. [Raspberry pi 5]()
 2. []()
 3. []()
 4. []()
@@ -45,32 +45,32 @@ Along the way, we faced challenges that tested our patience and problem-solving 
 This repository is the record of our progress — the designs, the code, the experiments, and the lessons learned. For us, this is more than a competition; it’s a journey of growth, learning, and teamwork. And we’re just getting started.
 
 # Hardware and Components
-Raspberry pi 5
+# Raspberry pi 5
 
 ![Raspberry pi](https://github.com/user-attachments/assets/f6b54607-f8fc-4b6a-986e-6b2b88c25254)
 
 The Raspberry Pi 5 is a compact, single-board computer released in October 2023, offering a major performance boost over the Pi 4. It features a 2.4 GHz quad-core ARM Cortex-A76 CPU, VideoCore VII GPU, supports up to 8 GB LPDDR4X RAM, and has dual 4Kp60 HDMI output, USB 3.0, PCIe 2.0 expansion, and a faster microSD interface. It also includes dedicated power management, real-time clock, and better camera/display connectivity, making it ideal for AI, robotics, and media projects.
 
-Raspberry pi Camera Module
+# Raspberry pi Camera Module
 
 ![Camera Module](https://github.com/user-attachments/assets/0c51fa4a-6ccb-4bd7-aa29-6db345808e71)
 
 For our WRO Future Engineers robot, we are using the Raspberry Pi Camera Module 3 to enable vision-based functions such as object detection, line following, and navigation. Its adjustable-focus lens and high-resolution imaging allow the robot to process visual data accurately in real time, which is crucial for tasks that require precision and adaptability during the competition.
 
 
-MPU-3250
+# MPU-3250
 
 ![MPU-3250](https://github.com/user-attachments/assets/c8154028-0de9-4fd7-9c22-bdc2e1b53ec4)
 
 The MPU-3250 is a compact motion-tracking sensor that integrates a 3-axis gyroscope and a 3-axis accelerometer in a single chip, allowing it to measure angular velocity and linear acceleration along three perpendicular axes. It communicates primarily via the I²C interface, making it easy to connect with microcontrollers like Arduino and Raspberry Pi. Operating on low power and supporting both 3.3V and 5V (depending on the breakout board), it is commonly used in robotics, drones, and other embedded systems for orientation detection, stabilization, and motion control. Its small size and combined sensing capabilities make it suitable for projects requiring accurate movement and tilt measurement in real time.
 
-GT2 pulley and timing belt
+# GT2 pulley and timing belt
 
 ![Gt2 pulley and timing belt](https://github.com/user-attachments/assets/f114bbc2-4523-4d2e-b8ea-52cbe363f821)
 
 The GT2 pulley and timing belt drive uses one pulley on the motor and another on a rod connected to both rear wheels, transferring motion precisely without slippage. It is lightweight, compact, quiet, low-maintenance, and absorbs shocks. Compared to differentials, chain drives, and gears, it is simpler, lighter, quieter, and easier to align, making it ideal for our WRO Future Engineers robot where both rear wheels need to move together for stability and efficiency.
 
-DC Gear motor
+# DC Gear motor
 
 ![DC Gear motor](https://github.com/user-attachments/assets/a6dd3591-e93e-451e-b14c-a7cabe141219)
 
