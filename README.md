@@ -12,13 +12,7 @@ This repository presents our self-made robotic system, designed acoording to the
 3. [Our Journey](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#-our-journey-)
 <br>
 .HARDWARE and COMPONENTS
-1. [Raspberry pi 5]()
-2. []()
-3. []()
-4. []()
-5. []()
-6. []()
-<br>
+
 # Who are we?
 
 We are a passionate and creative team of young innovators representing our school/country in the WRO 2025 Future Engineers category. Driven by curiosity and a shared vision for a better future, we bring together skills in robotics, programming, engineering design, and teamwork to solve real-world challenges.
