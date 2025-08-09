@@ -1,5 +1,4 @@
-
-# WRO 2025 Future Engineers – TEAM BAITUSSALAM
+# TEAM BAITUSSALAM
 # Jamia Baitussalam
 
 <img width="197" height="256" alt="download" src="https://github.com/user-attachments/assets/0e03e373-d699-4b1d-b68f-fd0811d3ac7c" />
