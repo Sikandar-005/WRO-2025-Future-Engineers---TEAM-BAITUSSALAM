@@ -45,5 +45,44 @@ Raspberry pi 5
 
 The Raspberry Pi 5 is a compact, single-board computer released in October 2023, offering a major performance boost over the Pi 4. It features a 2.4 GHz quad-core ARM Cortex-A76 CPU, VideoCore VII GPU, supports up to 8 GB LPDDR4X RAM, and has dual 4Kp60 HDMI output, USB 3.0, PCIe 2.0 expansion, and a faster microSD interface. It also includes dedicated power management, real-time clock, and better camera/display connectivity, making it ideal for AI, robotics, and media projects.
 
+Raspberry pi Camera Module
+
+![Camera Module](https://github.com/user-attachments/assets/0c51fa4a-6ccb-4bd7-aa29-6db345808e71)
+
+For our WRO Future Engineers robot, we are using the Raspberry Pi Camera Module 3 to enable vision-based functions such as object detection, line following, and navigation. Its adjustable-focus lens and high-resolution imaging allow the robot to process visual data accurately in real time, which is crucial for tasks that require precision and adaptability during the competition.
+
+
+MPU-3250
+
+![MPU-3250](https://github.com/user-attachments/assets/c8154028-0de9-4fd7-9c22-bdc2e1b53ec4)
+
+The MPU-3250 is a compact motion-tracking sensor that integrates a 3-axis gyroscope and a 3-axis accelerometer in a single chip, allowing it to measure angular velocity and linear acceleration along three perpendicular axes. It communicates primarily via the I²C interface, making it easy to connect with microcontrollers like Arduino and Raspberry Pi. Operating on low power and supporting both 3.3V and 5V (depending on the breakout board), it is commonly used in robotics, drones, and other embedded systems for orientation detection, stabilization, and motion control. Its small size and combined sensing capabilities make it suitable for projects requiring accurate movement and tilt measurement in real time.
+
+GT2 pulley and timing belt
+
+![Gt2 pulley and timing belt](https://github.com/user-attachments/assets/f114bbc2-4523-4d2e-b8ea-52cbe363f821)
+
+The GT2 pulley and timing belt drive uses one pulley on the motor and another on a rod connected to both rear wheels, transferring motion precisely without slippage. It is lightweight, compact, quiet, low-maintenance, and absorbs shocks. Compared to differentials, chain drives, and gears, it is simpler, lighter, quieter, and easier to align, making it ideal for our WRO Future Engineers robot where both rear wheels need to move together for stability and efficiency.
+
+DC Gear motor
+
+![DC Gear motor](https://github.com/user-attachments/assets/a6dd3591-e93e-451e-b14c-a7cabe141219)
+
+This is a DC gear motor with a built-in gearbox to reduce speed and increase torque. It provides strong, controlled rotation for robotics applications, making it suitable for driving wheels or mechanisms that require both power and precision. The attached connector allows easy wiring to motor drivers or controllers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
