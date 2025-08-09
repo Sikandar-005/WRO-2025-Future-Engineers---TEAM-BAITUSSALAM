@@ -25,3 +25,14 @@ At Jamia Baitussalam, we’re not just students — we’re innovators. The inst
 
 Our journey in WRO 2025 is a reflection of what Baitussalam stands for: bridging the gap between tradition and technology, and empowering youth to become ethical, forward-thinking engineers of tomorrow.
 
+# 🚀 Our Journey 🌟
+
+We are three teammates — Taha Umere, Zulqarnain, and Sikandar — bound together by friendship, teamwork, and a shared passion for technology. We study at Jamia Baitussalam Talagang, an Islamic institute that nurtures both academic excellence and strong moral values.
+
+Our journey began with a simple idea: to step into the world of robotics and engineering through the WRO 2025 Future Engineers challenge. With limited resources but unlimited determination, we started from simple programmes — learning new tools, exploring new technologies, and understanding the real-world applications of robotics.
+
+Along the way, we faced challenges that tested our patience and problem-solving skills — from mechanical design issues to fine-tuning code for better performance. Each challenge became a stepping stone, making our team stronger and our project better.
+
+This repository is the record of our progress — the designs, the code, the experiments, and the lessons learned. For us, this is more than a competition; it’s a journey of growth, learning, and teamwork. And we’re just getting started.
+
+
