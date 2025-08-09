@@ -38,4 +38,12 @@ Along the way, we faced challenges that tested our patience and problem-solving 
 
 This repository is the record of our progress — the designs, the code, the experiments, and the lessons learned. For us, this is more than a competition; it’s a journey of growth, learning, and teamwork. And we’re just getting started.
 
+# Hardware and Components
+Raspberry pi 5
+
+![Raspberry pi](https://github.com/user-attachments/assets/f6b54607-f8fc-4b6a-986e-6b2b88c25254)
+
+The Raspberry Pi 5 is a compact, single-board computer released in October 2023, offering a major performance boost over the Pi 4. It features a 2.4 GHz quad-core ARM Cortex-A76 CPU, VideoCore VII GPU, supports up to 8 GB LPDDR4X RAM, and has dual 4Kp60 HDMI output, USB 3.0, PCIe 2.0 expansion, and a faster microSD interface. It also includes dedicated power management, real-time clock, and better camera/display connectivity, making it ideal for AI, robotics, and media projects.
+
+
 
