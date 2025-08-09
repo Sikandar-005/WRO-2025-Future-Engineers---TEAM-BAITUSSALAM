@@ -4,6 +4,7 @@ This repository presents our self-made robotic system, designed acoording to the
 
 # CONTENT TABLE
 
+## https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/Models/3D%20designs/Components/Camera%20Module.jpg
 
 # WHO ARE WE?
 
