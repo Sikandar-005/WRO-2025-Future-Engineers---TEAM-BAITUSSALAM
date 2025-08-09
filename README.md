@@ -1,8 +1,7 @@
 
 # WRO 2025 Future Engineers – TEAM BAITUSSALAM
-
 # Jamia Baitussalam
-https://images.app.goo.gl/5QmjV4MwxjojHmi3A
+[Jamia](https://www.google.com/imgres?imgurl=https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id%3D100064864267118&imgrefurl=https://www.facebook.com/BaitussalamTLG/&h=2048&w=1581&tbnid=o7FPZCoXwJEHUM&source=sa.im&tbnh=256&tbnw=197&usg=AI4_-kR1luBm7bIpDR7lR7OiRhQQkyJvaQ&vet=1&docid=T_tLHmxvQLcpPM)
 
 This repository presents our self-made robotic system, designed acoording to the WRO 2025 (Future Engineers) theme challenge. We use a combination of different mechanics, smart sensors, different algorithms, and autonomous decision-making to solve a real-world problem through a functional, scalable prototype.
 
