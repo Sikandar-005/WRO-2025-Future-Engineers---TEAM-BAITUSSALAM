@@ -6,14 +6,20 @@
 This repository presents our self-made robotic system, designed acoording to the WRO 2025 (Future Engineers) theme challenge. We use a combination of different mechanics, smart sensors, different algorithms, and autonomous decision-making to solve a real-world problem through a functional, scalable prototype.
 
 # Content Table
- [TEAM INTRODUCTION()
+
+# [TEAM INTRODUCTION](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/edit/main/README.md#team-introduction)
 1. [WHO ARE WE?](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#who-are-we)
 2. [Where DO WE COME FROM(The participants)?](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#-where-do-we-come-fromthe-participants)
 3. [Our Journey](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#-our-journey-)
 
- [Mobility Management](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM#mobility-management-)
+# [Mobility Management](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM#mobility-management-)
 1. [Vehicle Movement Management](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#1-vehicle-movement-management)
 2. [ Motor Selection](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#2-motor-selection)
+3. [Chassis design](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/edit/main/README.md#3-chassis-design-%EF%B8%8F)
+4. [Component Mounting](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/edit/main/README.md#4-component-mounting-)
+5. [Engineering Principles](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/edit/main/README.md#5-engineering-principles)
+
+
 # TEAM INTRODUCTION
 
 # Who are we?
@@ -71,16 +77,35 @@ Selection Criteria:
 - Low power consumption for extended run time
 Implementation: Motors are mounted to custom 3D-printed brackets, connected to 5mm G2 pulleys and a 200 mm closed-loop timing belt driving the rear wheels.
 
-# 3. Chassis Design
-
+# 3. Chassis Design 🛠️
 
 
 - Material: 'PLA' chosen for light weight and structural rigidity
 - Layout: Low center of gravity for stability, optimized wheelbase for maneuverability
 - Mounting Points: Designed for easy integration of motors, electronics, and sensors without modifying the structure
+  
+# 4. Component Mounting 🧲
+- Motors: Secured with vibration-resistant fasteners to prevent alignment shift
+- Electronics: Raspberry Pi and motor driver mounted on a vibration-damped plate
+- Battery: Center-mounted for balanced weight distribution
+- Sensors: QTR array at the front, IMU at the center for accurate readings
 
+# 5. Engineering Principles
+Torque:
+- 𝑇 = 𝐹 × 𝑟 – Calculated to ensure enough drive force under load
+Speed:
+- v = (Wheel Circumference × RPM) / 60 – Ensures speed matches track requirements
+Power:
+- 𝑃 = 𝑇 × 𝜔 P = T × ω – Verified to match motor and battery capabilities
+Gear Ratio: Pulley ratio selected to balance torque and top speed
 
-
+# 6. Assembly Instructions
+- 3D Print chassis and motor mounting brackets (/CAD_Files/)
+- Mount Motors to brackets and attach pulleys
+- Install Belt Drive and adjust tension
+- Mount Electronics and battery
+- Connect Wiring according to circuit diagram
+- Run Calibration to verify motor direction and steering alignment
 
 
 
