@@ -11,16 +11,6 @@ This repository presents our self-made robotic system, designed acoording to the
 2. [Where DO WE COME FROM(The participants)?](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#-where-do-we-come-fromthe-participants)
 3. [Our Journey](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#-our-journey-)
 
-.HARDWARE and COMPONENTS
-1. [Raspberry pi](https://github.com/user-attachments/assets/f6b54607-f8fc-4b6a-986e-6b2b88c25254)
-2. [Camera Module](https://github.com/user-attachments/assets/0c51fa4a-6ccb-4bd7-aa29-6db345808e71)
-3. [MPU-3250](https://github.com/user-attachments/assets/c8154028-0de9-4fd7-9c22-bdc2e1b53ec4)
-4. [Gt2 pulley and timing belt](https://github.com/user-attachments/assets/f114bbc2-4523-4d2e-b8ea-52cbe363f821)
-5. [DC Gear motor](https://github.com/user-attachments/assets/a6dd3591-e93e-451e-b14c-a7cabe141219)
-
-.STEERING
-1. [Ackerman steering mechanism](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#steering-mechanism)
-
 
 # Who are we?
 
@@ -48,43 +38,6 @@ Our journey began with a simple idea: to step into the world of robotics and eng
 Along the way, we faced challenges that tested our patience and problem-solving skills — from mechanical design issues to fine-tuning code for better performance. Each challenge became a stepping stone, making our team stronger and our project better.
 
 This repository is the record of our progress — the designs, the code, the experiments, and the lessons learned. For us, this is more than a competition; it’s a journey of growth, learning, and teamwork. And we’re just getting started.
-
-# Hardware and Components
-# Raspberry pi 5
-![Raspberry pi](https://github.com/user-attachments/assets/f6b54607-f8fc-4b6a-986e-6b2b88c25254)
-
-The Raspberry Pi 5 is a compact, single-board computer released in October 2023, offering a major performance boost over the Pi 4. It features a 2.4 GHz quad-core ARM Cortex-A76 CPU, VideoCore VII GPU, supports up to 8 GB LPDDR4X RAM, and has dual 4Kp60 HDMI output, USB 3.0, PCIe 2.0 expansion, and a faster microSD interface. It also includes dedicated power management, real-time clock, and better camera/display connectivity, making it ideal for AI, robotics, and media projects.
-
-# Raspberry pi Camera Module
-
-![Camera Module](https://github.com/user-attachments/assets/0c51fa4a-6ccb-4bd7-aa29-6db345808e71)
-
-For our WRO Future Engineers robot, we are using the Raspberry Pi Camera Module 3 to enable vision-based functions such as object detection, line following, and navigation. Its adjustable-focus lens and high-resolution imaging allow the robot to process visual data accurately in real time, which is crucial for tasks that require precision and adaptability during the competition.
-
-
-# MPU-3250
-
-![MPU-3250](https://github.com/user-attachments/assets/c8154028-0de9-4fd7-9c22-bdc2e1b53ec4)
-
-The MPU-3250 is a compact motion-tracking sensor that integrates a 3-axis gyroscope and a 3-axis accelerometer in a single chip, allowing it to measure angular velocity and linear acceleration along three perpendicular axes. It communicates primarily via the I²C interface, making it easy to connect with microcontrollers like Arduino and Raspberry Pi. Operating on low power and supporting both 3.3V and 5V (depending on the breakout board), it is commonly used in robotics, drones, and other embedded systems for orientation detection, stabilization, and motion control. Its small size and combined sensing capabilities make it suitable for projects requiring accurate movement and tilt measurement in real time.
-
-# GT2 pulley and timing belt
-
-![Gt2 pulley and timing belt](https://github.com/user-attachments/assets/f114bbc2-4523-4d2e-b8ea-52cbe363f821)
-
-The GT2 pulley and timing belt drive uses one pulley on the motor and another on a rod connected to both rear wheels, transferring motion precisely without slippage. It is lightweight, compact, quiet, low-maintenance, and absorbs shocks. Compared to differentials, chain drives, and gears, it is simpler, lighter, quieter, and easier to align, making it ideal for our WRO Future Engineers robot where both rear wheels need to move together for stability and efficiency.
-
-# DC Gear motor
-
-![DC Gear motor](https://github.com/user-attachments/assets/a6dd3591-e93e-451e-b14c-a7cabe141219)
-
-This is a DC gear motor with a built-in gearbox to reduce speed and increase torque. It provides strong, controlled rotation for robotics applications, making it suitable for driving wheels or mechanisms that require both power and precision. The attached connector allows easy wiring to motor drivers or controllers.
-
-# Steering Mechanism
-
-Ackerman steering mechanism<img width="809" height="434" alt="image (1)" src="https://github.com/user-attachments/assets/822befb1-dbc8-469c-be05-a470986c1154" />
- The Ackermann steering The Ackermann steering geometry in the center of the mechanism ensures that both front wheels turn at angles that allow them to follow concentric paths during a turn. This is achieved by angling the steering linkages inward toward the rear axle, so when the central steering arm moves, it causes the inner wheel to turn more sharply than the outer one. As a result, the extended lines from both wheels intersect at the rear axle center, minimizing tire slippage and improving cornering efficiency. This setup is especially useful in vehicles or robotic platforms that require precise and smooth turning.
-
 
 
 
