@@ -6,13 +6,14 @@
 This repository presents our self-made robotic system, designed acoording to the WRO 2025 (Future Engineers) theme challenge. We use a combination of different mechanics, smart sensors, different algorithms, and autonomous decision-making to solve a real-world problem through a functional, scalable prototype.
 
 # Content Table
-. TEAM INTRODUCTION
+ [TEAM INTRODUCTION()
 1. [WHO ARE WE?](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#who-are-we)
 2. [Where DO WE COME FROM(The participants)?](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#-where-do-we-come-fromthe-participants)
 3. [Our Journey](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#-our-journey-)
-. Mobility Management
-1. [Vehicle Movement Management]()
 
+. Mobility Management
+1. [Vehicle Movement Management](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#1-vehicle-movement-management)
+2. [ Motor Selection](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#2-motor-selection)
 
 # Who are we?
 
@@ -41,7 +42,7 @@ Along the way, we faced challenges that tested our patience and problem-solving 
 
 This repository is the record of our progress — the designs, the code, the experiments, and the lessons learned. For us, this is more than a competition; it’s a journey of growth, learning, and teamwork. And we’re just getting started.
 
-# Mobility Management
+# Mobility Management 🛞
 # .1 Vehicle Movement Management
 The robot’s movements are controlled through a rear-wheel drive system powered by Pololu 25D Metal Gearmotor(25mm Brushed DC Gearmotor with Encoder Option) and a front steering mechanism servo-based Ackermann.
 Motor speed and steering angle are managed using PWM signals from the Raspberry Pi, with feedback from the QTR sensor array and IMU for precise control.
@@ -50,7 +51,7 @@ Motor speed and steering angle are managed using PWM signals from the Raspberry 
 Type: Pololu 25D Metal Gearmotor(25mm Brushed DC Gearmotor with Encoder Option)
 
 ![DC Gear motor](https://github.com/user-attachments/assets/3a9aa373-d86a-4775-925d-1fac07e292df)
-.Motor Type: Brushed DC motor (available in low-, medium-, and high-power versions)
+- Motor Type: Brushed DC motor (available in low-, medium-, and high-power versions)
 
 - Voltage Options: 6V and 12V variants
 
@@ -68,6 +69,14 @@ Selection Criteria:
 - RPM matched to required top speed for the track
 - Low power consumption for extended run time
 Implementation: Motors are mounted to custom 3D-printed brackets, connected to 5mm G2 pulleys and a 200 mm closed-loop timing belt driving the rear wheels.
+
+# 3. Chassis Design
+
+
+
+- Material: 'PLA' chosen for light weight and structural rigidity
+- Layout: Low center of gravity for stability, optimized wheelbase for maneuverability
+- Mounting Points: Designed for easy integration of motors, electronics, and sensors without modifying the structure
 
 
 
