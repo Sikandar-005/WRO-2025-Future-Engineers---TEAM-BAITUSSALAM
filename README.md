@@ -18,6 +18,9 @@ This repository presents our self-made robotic system, designed acoording to the
 4. [Gt2 pulley and timing belt](https://github.com/user-attachments/assets/f114bbc2-4523-4d2e-b8ea-52cbe363f821)
 5. [DC Gear motor](https://github.com/user-attachments/assets/a6dd3591-e93e-451e-b14c-a7cabe141219)
 
+.Steering
+1. [Acherman steering mechanism](!Uploading image (1).png…)
+
 
 # Who are we?
 
