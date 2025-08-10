@@ -12,6 +12,12 @@ This repository presents our self-made robotic system, designed acoording to the
 3. [Our Journey](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#-our-journey-)
 
 .HARDWARE and COMPONENTS
+1.[Raspberry pi](https://github.com/user-attachments/assets/f6b54607-f8fc-4b6a-986e-6b2b88c25254)
+2.[Camera Module](https://github.com/user-attachments/assets/0c51fa4a-6ccb-4bd7-aa29-6db345808e71)
+3.[MPU-3250](https://github.com/user-attachments/assets/c8154028-0de9-4fd7-9c22-bdc2e1b53ec4)
+4.[Gt2 pulley and timing belt](https://github.com/user-attachments/assets/f114bbc2-4523-4d2e-b8ea-52cbe363f821)
+5.[DC Gear motor](https://github.com/user-attachments/assets/a6dd3591-e93e-451e-b14c-a7cabe141219)
+
 
 # Who are we?
 
@@ -42,7 +48,6 @@ This repository is the record of our progress — the designs, the code, the exp
 
 # Hardware and Components
 # Raspberry pi 5
-
 ![Raspberry pi](https://github.com/user-attachments/assets/f6b54607-f8fc-4b6a-986e-6b2b88c25254)
 
 The Raspberry Pi 5 is a compact, single-board computer released in October 2023, offering a major performance boost over the Pi 4. It features a 2.4 GHz quad-core ARM Cortex-A76 CPU, VideoCore VII GPU, supports up to 8 GB LPDDR4X RAM, and has dual 4Kp60 HDMI output, USB 3.0, PCIe 2.0 expansion, and a faster microSD interface. It also includes dedicated power management, real-time clock, and better camera/display connectivity, making it ideal for AI, robotics, and media projects.
