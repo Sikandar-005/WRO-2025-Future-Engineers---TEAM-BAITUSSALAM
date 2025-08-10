@@ -83,7 +83,7 @@ This is a DC gear motor with a built-in gearbox to reduce speed and increase tor
 # Steering Mechanism
 
 Ackerman steering mechanism<img width="809" height="434" alt="image (1)" src="https://github.com/user-attachments/assets/822befb1-dbc8-469c-be05-a470986c1154" />
-The Ackermann steering geometry in the center of the mechanism ensures that both front wheels turn at angles that allow them to follow concentric paths during a turn. This is achieved by angling the steering linkages inward toward the rear axle, so when the central steering arm moves, it causes the inner wheel to turn more sharply than the outer one. As a result, the extended lines from both wheels intersect at the rear axle center, minimizing tire slippage and improving cornering efficiency. This setup is especially useful in vehicles or robotic platforms that require precise and smooth turning.
+ The Ackermann steering The Ackermann steering geometry in the center of the mechanism ensures that both front wheels turn at angles that allow them to follow concentric paths during a turn. This is achieved by angling the steering linkages inward toward the rear axle, so when the central steering arm moves, it causes the inner wheel to turn more sharply than the outer one. As a result, the extended lines from both wheels intersect at the rear axle center, minimizing tire slippage and improving cornering efficiency. This setup is especially useful in vehicles or robotic platforms that require precise and smooth turning.
 
 
 
