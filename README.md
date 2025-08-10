@@ -12,11 +12,11 @@ This repository presents our self-made robotic system, designed acoording to the
 3. [Our Journey](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#-our-journey-)
 
 .HARDWARE and COMPONENTS
-1.![Raspberry pi](https://github.com/user-attachments/assets/f6b54607-f8fc-4b6a-986e-6b2b88c25254)
-2.![Camera Module](https://github.com/user-attachments/assets/0c51fa4a-6ccb-4bd7-aa29-6db345808e71)
-3.[MPU-3250](https://github.com/user-attachments/assets/c8154028-0de9-4fd7-9c22-bdc2e1b53ec4)
-4.[Gt2 pulley and timing belt](https://github.com/user-attachments/assets/f114bbc2-4523-4d2e-b8ea-52cbe363f821)
-5.[DC Gear motor](https://github.com/user-attachments/assets/a6dd3591-e93e-451e-b14c-a7cabe141219)
+1. [Raspberry pi](https://github.com/user-attachments/assets/f6b54607-f8fc-4b6a-986e-6b2b88c25254)
+2. [Camera Module](https://github.com/user-attachments/assets/0c51fa4a-6ccb-4bd7-aa29-6db345808e71)
+3. [MPU-3250](https://github.com/user-attachments/assets/c8154028-0de9-4fd7-9c22-bdc2e1b53ec4)
+4. [Gt2 pulley and timing belt](https://github.com/user-attachments/assets/f114bbc2-4523-4d2e-b8ea-52cbe363f821)
+5. [DC Gear motor](https://github.com/user-attachments/assets/a6dd3591-e93e-451e-b14c-a7cabe141219)
 
 
 # Who are we?
