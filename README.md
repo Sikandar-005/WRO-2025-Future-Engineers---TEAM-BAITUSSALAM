@@ -82,7 +82,7 @@ This is a DC gear motor with a built-in gearbox to reduce speed and increase tor
 
 # Steering Mechanism
 
-![Acherman steering mechanism]<img width="809" height="434" alt="image (1)" src="https://github.com/user-attachments/assets/822befb1-dbc8-469c-be05-a470986c1154" />
+Acherman steering mechanism<img width="809" height="434" alt="image (1)" src="https://github.com/user-attachments/assets/822befb1-dbc8-469c-be05-a470986c1154" />
 
 
 
