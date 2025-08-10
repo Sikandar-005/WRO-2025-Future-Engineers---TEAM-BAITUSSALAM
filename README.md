@@ -41,6 +41,19 @@ Along the way, we faced challenges that tested our patience and problem-solving 
 
 This repository is the record of our progress — the designs, the code, the experiments, and the lessons learned. For us, this is more than a competition; it’s a journey of growth, learning, and teamwork. And we’re just getting started.
 
+2. Motor Selection
+Type: [e.g., 12V DC gear motor, 300 RPM, 2.5 kg·cm torque]
+| Image | Description |
+|-------|-------------|
+| ![Alt text](![DC Gear motor](https://github.com/user-attachments/assets/d2ffb1fe-2937-4975-bea0-655ff962f335) | This is some text beside the image. You can add more details here. |
+
+Selection Criteria:
+.Torque sufficient for acceleration and climbing inclines
+.RPM matched to required top speed for the track
+.Low power consumption for extended run time
+
+Implementation: Motors are mounted to custom 3D-printed brackets, connected to 5mm G2 pulleys and a 200 mm closed-loop timing belt driving the rear wheels.
+
 
 
 
