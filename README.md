@@ -11,7 +11,7 @@ This repository presents our self-made robotic system, designed acoording to the
 2. [Where DO WE COME FROM(The participants)?](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#-where-do-we-come-fromthe-participants)
 3. [Our Journey](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#-our-journey-)
 . Mobility Management
-
+1. [Vehicle Movement Management]()
 
 
 # Who are we?
@@ -42,11 +42,11 @@ Along the way, we faced challenges that tested our patience and problem-solving 
 This repository is the record of our progress — the designs, the code, the experiments, and the lessons learned. For us, this is more than a competition; it’s a journey of growth, learning, and teamwork. And we’re just getting started.
 
 # Mobility Management
-.1 Vehicle Movement Management
+# .1 Vehicle Movement Management
 The robot’s movements are controlled through a rear-wheel drive system powered by Pololu 25D Metal Gearmotor(25mm Brushed DC Gearmotor with Encoder Option) and a front steering mechanism servo-based Ackermann.
 Motor speed and steering angle are managed using PWM signals from the Raspberry Pi, with feedback from the QTR sensor array and IMU for precise control.
 
-2. Motor Selection
+# 2. Motor Selection
 Type: Pololu 25D Metal Gearmotor(25mm Brushed DC Gearmotor with Encoder Option)
 
 ![DC Gear motor](https://github.com/user-attachments/assets/3a9aa373-d86a-4775-925d-1fac07e292df)
