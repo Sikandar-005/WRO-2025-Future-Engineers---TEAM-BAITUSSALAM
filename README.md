@@ -19,7 +19,7 @@ This repository presents our self-made robotic system, designed acoording to the
 5. [DC Gear motor](https://github.com/user-attachments/assets/a6dd3591-e93e-451e-b14c-a7cabe141219)
 
 .Steering
-1. [Acherman steering mechanism](!Uploading image (1).png…)
+1. [Acherman steering mechanism]()
 
 
 # Who are we?
@@ -79,6 +79,10 @@ The GT2 pulley and timing belt drive uses one pulley on the motor and another on
 ![DC Gear motor](https://github.com/user-attachments/assets/a6dd3591-e93e-451e-b14c-a7cabe141219)
 
 This is a DC gear motor with a built-in gearbox to reduce speed and increase torque. It provides strong, controlled rotation for robotics applications, making it suitable for driving wheels or mechanisms that require both power and precision. The attached connector allows easy wiring to motor drivers or controllers.
+
+# Steering Mechanism
+
+![Acherman steering mechanism]<img width="809" height="434" alt="image (1)" src="https://github.com/user-attachments/assets/822befb1-dbc8-469c-be05-a470986c1154" />
 
 
 
