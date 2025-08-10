@@ -19,7 +19,7 @@ This repository presents our self-made robotic system, designed acoording to the
 5. [DC Gear motor](https://github.com/user-attachments/assets/a6dd3591-e93e-451e-b14c-a7cabe141219)
 
 .Steering
-1. [Acherman steering mechanism]()
+1. [Ackerman steering mechanism](<img width="809" height="434" alt="image (1)" src="https://github.com/user-attachments/assets/822befb1-dbc8-469c-be05-a470986c1154" />)
 
 
 # Who are we?
