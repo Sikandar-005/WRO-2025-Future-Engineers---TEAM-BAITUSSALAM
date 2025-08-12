@@ -51,7 +51,7 @@ Along the way, we faced challenges that tested our patience and problem-solving 
 This repository is the record of our progress — the designs, the code, the experiments, and the lessons learned. For us, this is more than a competition; it’s a journey of growth, learning, and teamwork. And we’re just getting started.
 
 # Mobility Management 🛞
-# .1 Vehicle Movement Management
+# 1. Vehicle Movement Management
 The robot’s movements are controlled through a rear-wheel drive system powered by Pololu 25D Metal Gearmotor(25mm Brushed DC Gearmotor with Encoder Option) and a front steering mechanism servo-based Ackermann.
 Motor speed and steering angle are managed using PWM signals from the Raspberry Pi, with feedback from the QTR sensor array and IMU for precise control.
 # Steering Mechanism
@@ -82,6 +82,10 @@ Selection Criteria:
 - RPM matched to required top speed for the track
 - Low power consumption for extended run time
 Implementation: Motors are mounted to custom 3D-printed brackets, connected to 5mm G2 pulleys and a 200 mm closed-loop timing belt driving the rear wheels.
+
+Type:  MG996R Digital High-Torque Servo Motor
+
+[MG996R Servo Motor](IMG-20250808-WA0003https://github.com/user-attachments/assets/43486e56-bbe5-492d-b259-4bfc2bd13bfc)
 
 # 3. Chassis Design 🛠️
 
