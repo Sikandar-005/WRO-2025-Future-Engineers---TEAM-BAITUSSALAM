@@ -21,6 +21,8 @@ This repository presents our self-made robotic system, designed acoording to the
 5. [Engineering Principles](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/edit/main/README.md#5-engineering-principles)
 6. [Assmebly Instruction](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/edit/main/README.md#6-assembly-instructions)
 
+# [Power and Sense Management ]()
+
 # TEAM INTRODUCTION
 
 # Who are we?
@@ -123,6 +125,12 @@ Gear Ratio: Pulley ratio selected to balance torque and top speed
 - Mount Electronics and battery
 - Connect Wiring according to circuit diagram
 - Run Calibration to verify motor direction and steering alignment
+
+# Power and Sense Management 
+This section details the robot’s power system and sensor suite, explaining component selection, integration, and layout, supported by a wiring diagram and complete bill of materials.
+# 1. Power Source
+
+
 
 
 
