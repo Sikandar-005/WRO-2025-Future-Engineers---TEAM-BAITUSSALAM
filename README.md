@@ -83,14 +83,21 @@ Selection Criteria:
 - Low power consumption for extended run time
 Implementation: Motors are mounted to custom 3D-printed brackets, connected to 5mm G2 pulleys and a 200 mm closed-loop timing belt driving the rear wheels.
 
+
 Type:  MG996R Digital High-Torque Servo Motor
-
-[MG996R Servo Motor](IMG-20250808-WA0003https://github.com/user-attachments/assets/43486e56-bbe5-492d-b259-4bfc2bd13bfc)
-
+![MG996R Servo Motor](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/Models/3D%20designs/Components/MG996R%20Servo%20Motor.jpg)
+- Strong enough to lift and steer — with up to 11 kg·cm torque, it can handle steering mechanisms or manipulator arms in a competition robot.
+- Durable metal gears mean fewer breakdowns during long testing sessions or unexpected impacts in the WRO field.
+- Fast and responsive movement (about 0.17s per 60° at 6V) helps in precision steering and quick obstacle maneuvers.
+- Standard PWM control makes it easy to integrate with Arduino, Raspberry Pi, or even ROS-based systems in your WRO build.
+- Affordable and widely available, so replacing one during competition prep is quick and budget-friendly.
+- Compact design allows mounting in tight spaces inside a robot chassis without sacrificing strength.
+- Reliable under voltage fluctuations — useful when your WRO robot runs on batteries that may drop slightly under load.
+- Proven in robotics competitions — it’s a common choice among WRO and other robotics teams, so resources and examples are easy to find.
 # 3. Chassis Design 🛠️
 
 
-- Material: 'PLA' chosen for light weight and structural rigidity
+- Material:  'PETG' is a tough, impact-resistant filament known for its durability, flexibility, and resistance to moisture and chemicals.
 - Layout: Low center of gravity for stability, optimized wheelbase for maneuverability
 - Mounting Points: Designed for easy integration of motors, electronics, and sensors without modifying the structure
   
@@ -110,7 +117,7 @@ Power:
 Gear Ratio: Pulley ratio selected to balance torque and top speed
 
 # 6. Assembly Instructions
-- 3D Print chassis and motor mounting brackets (/CAD_Files/)
+- 3D Print chassis and motor mounting brackets ([Models/3D designs](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/tree/main/Models/3D%20designs))
 - Mount Motors to brackets and attach pulleys
 - Install Belt Drive and adjust tension
 - Mount Electronics and battery
