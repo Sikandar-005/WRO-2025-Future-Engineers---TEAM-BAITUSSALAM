@@ -14,7 +14,7 @@ This repository presents our self-made robotic system, designed acoording to the
 
 # [Mobility Management](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM#mobility-management-)
 1. [Vehicle Movement Management](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#1-vehicle-movement-management)
- - [Steering Management](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/edit/main/README.md#steering-mechanism) 
+ - [Steering Mechanism](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/edit/main/README.md#steering-mechanism) 
 2. [ Motor Selection](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#2-motor-selection)
 3. [Chassis design](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/edit/main/README.md#3-chassis-design-%EF%B8%8F)
 4. [Component Mounting](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/edit/main/README.md#4-component-mounting-)
@@ -63,20 +63,17 @@ Ackerman steering mechanism<img width="809" height="434" alt="image (1)" src="ht
 
 
 # 2. Motor Selection
-Type: Pololu 25D Metal Gearmotor(25mm Brushed DC Gearmotor with Encoder Option)
+| Motor | Specifications |
+|-------|-----------|
+| ![DC Gear motor](https://github.com/user-attachments/assets/288496ce-5f6e-454b-8fb5-fd1dce2e9569) | - Type: Pololu 25D Metal Gearmotor(25mm Brushed DC Gearmotor with Encoder Option<br>- Motor Type: Brushed DC motor (available in low-, medium-, and high-power versions)<br>- Voltage Options: 6V and 12V variants <br> - Gear Ratios: Wide range from 4.4:1 to 499:1, allowing for speed-torque customization <br> - Encoder Option: Integrated 48 CPR (counts per revolution) quadrature encoder for precise speed and position feedback <br> - Body Diameter: 25 mm <br> - Output Shaft: 4 mm diameter, D-shaped, extends ~12.5 mm|
 
-![DC Gear motor](https://github.com/user-attachments/assets/3a9aa373-d86a-4775-925d-1fac07e292df)
-- Motor Type: Brushed DC motor (available in low-, medium-, and high-power versions)
 
-- Voltage Options: 6V and 12V variants
+  
 
-- Gear Ratios: Wide range from 4.4:1 to 499:1, allowing for speed-torque customization
 
-- Encoder Option: Integrated 48 CPR (counts per revolution) quadrature encoder for precise speed and position feedback
 
-- Body Diameter: 25 mm
 
-- Output Shaft: 4 mm diameter, D-shaped, extends ~12.5 mm
+
 
 
 Selection Criteria:
@@ -127,8 +124,14 @@ Gear Ratio: Pulley ratio selected to balance torque and top speed
 - Run Calibration to verify motor direction and steering alignment
 
 # Power and Sense Management 
-This section details the robot’s power system and sensor suite, explaining component selection, integration, and layout, supported by a wiring diagram and complete bill of materials.
+This section explains the robot’s power system and sensor suite, explaining component selection, integration, and layout, supported by a wiring diagram and complete bill of materials.
 # 1. Power Source
+
+# 2. Sensors
+| Sensor Name | Purpose | Reason for selection | Placement on Robot | 
+|----------|----------|----------|----------|
+| Camera Module Raspberry pi | the Raspberry Pi Camera Module acts as the robot’s “eyes,” enabling it to detect lanes, obstacles, and signs, as well as recognize objects using AI models. It supports autonomous navigation and decision-making by providing real-time visual data and can also record runs for later analysis. Overall, it makes the robot smarter, more adaptive, and better prepared for handling complex competition courses | Row 1 C3 |
+| Row 2 C1 | Row 2 C2 | Row 2 C3 |
 
 
 
