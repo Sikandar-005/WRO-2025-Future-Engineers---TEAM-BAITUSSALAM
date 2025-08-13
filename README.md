@@ -65,7 +65,8 @@ The Ackermann steering geometry in the center of the mechanism ensures that both
 # 2. Motor Selection
 | Motor | Specifications |
 |-------|----------------|
-| ![DC Gear motor](https://github.com/user-attachments/assets/288496ce-5f6e-454b-8fb5-fd1dce2e9569) | - Type: Pololu 25D Metal Gearmotor(25mm Brushed DC Gearmotor with Encoder Option) |
+| ![DC Gear motor](https://github.com/user-attachments/assets/288496ce-5f6e-454b-8fb5-fd1dce2e9569) | • Type: Pololu 25D Metal Gearmotor(25mm Brushed DC Gearmotor with Encoder Option) • Voltage: 12 V <br> • No-load Speed: ~300 RPM• Stall Torque: ~11 kg·cm <br> • Stall Current: ~5 A <br>• Encoder: 48-CPR quadrature, ~1632 counts/rev after gearbox|
+These motors provide the necessary torque for overcoming ramps and obstacles, while the encoders enable accurate distance measurement and closed-loop speed control. 
 
 
   
