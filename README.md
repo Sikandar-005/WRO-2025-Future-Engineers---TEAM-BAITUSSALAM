@@ -65,12 +65,10 @@ Ackerman steering mechanism<img width="809" height="434" alt="image (1)" src="ht
 # 2. Motor Selection
 | Motor | Specifications |
 |-------|-----------|
-| ![DC Gear motor](https://github.com/user-attachments/assets/288496ce-5f6e-454b-8fb5-fd1dce2e9569) | - Type: Pololu 25D Metal Gearmotor(25mm Brushed DC Gearmotor with Encoder Option<br>- Motor Type: Brushed DC motor (available in low-, medium-, and high-power versions)<br>- Voltage Options: 6V and 12V variants <br> - Gear Ratios: Wide range from 4.4:1 to 499:1, allowing for speed-torque customization <br> - Encoder Option: Integrated 48 CPR (counts per revolution) quadrature encoder for precise speed and position feedback <br> - Body Diameter: 25 mm <br> - Output Shaft: 4 mm diameter, D-shaped, extends ~12.5 mm|
+| ![DC Gear motor](https://github.com/user-attachments/assets/288496ce-5f6e-454b-8fb5-fd1dce2e9569) | - Type: Pololu 25D Metal Gearmotor(25mm Brushed DC Gearmotor with Encoder Option|
 
 
   
-
-
 
 
 
