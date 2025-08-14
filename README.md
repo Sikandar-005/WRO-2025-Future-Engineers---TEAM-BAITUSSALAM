@@ -3,7 +3,7 @@
 
 <img width="197" height="256" alt="download" src="https://github.com/user-attachments/assets/0e03e373-d699-4b1d-b68f-fd0811d3ac7c" />
 
-This repository presents our self-made robotic system, designed acoording to the WRO 2025 (Future Engineers) theme challenge. We use a combination of different mechanics, smart sensors, different algorithms, and autonomous decision-making to solve a real-world problem through a functional, scalable prototype.
+This repository presents our docmentation needed for the WRO 25(Future Engineers). It covers all the aspects of the competition — starting from our team introduction, Robot design, components used, programmes, mechanisms, and the performances. It showcases our team's hardwork and dedictaion to this competition.
 
 # Content Table
 
@@ -29,7 +29,7 @@ We are a team from Pakistan, representing our country and institute in WRO 25(Fu
 It is our first time participating in any category of WRO.
 
 # 🚀 Our Journey 🌟
-Our journey of WRO dates long back to the time when we were first introduced to 'Robotics'. Robotics not only helped us in learning programming but also taught some many skills like problem-solving, decision-making, patience, and many more. Annyways, now let me take you through our journey of WRO. We started working on this project as soon as we were informed about our participation in it, by our management. It has not been long yet, since we started working. Our jouney is full of problems, hurddles, headaches, and even pessimism but what makes our journey interesting are the moments of success, solving the impossible problems, and fighting against our fate and acheiving 'THE VICTORY'. Our journey yet continues and brings more hurdles. More updates soon...
+Our journey of WRO dates long back to the time when we were first introduced to 'Robotics'. Robotics not only helped us in learning programming and different mechanisms but also taught us many skills like problem-solving, decision-making, patience, and many more. Annyways, now let me take you through our journey of WRO. We started working on this project as soon as we were informed about our participation in it, by our management. It has not been long yet, since we started working. Our jouney is full of problems, hurddles, headaches, and even pessimism but what makes our journey interesting are the moments of success, solving the impossible problems, and fighting against our fate and acheiving 'THE VICTORY'. Our journey yet continues and brings more hurdles. More updates soon...
 
 
 # Mobility Management 🛞
@@ -62,7 +62,7 @@ Implementation: Motors are mounted to custom 3D-printed brackets, connected to 5
 Type:  MG996R Digital High-Torque Servo Motor
 | Motor | Specifications |
 |-------|----------------|
-| ![MG996R Servo Motor](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/Models/3D%20designs/Components/MG996R%20Servo%20Motor.jpg) | • Strong enough to lift and steer — with up to 11 kg·cm torque, it can handle steering mechanisms or manipulator arms in a competition robot.<br> • Durable metal gears mean fewer breakdowns during long testing sessions or unexpected impacts in the WRO field.<br> • Fast and responsive movement (about 0.17s per 60° at 6V) helps in precision steering and quick obstacle maneuvers.<br> • Standard PWM control makes it easy to integrate with Arduino, Raspberry Pi, or even ROS-based systems in your WRO build.<br> •  Affordable and widely available, so replacing one during competition prep is quick and budget-friendly.<br> • Compact design allows mounting in tight spaces inside a robot chassis without sacrificing strength.<br> • Reliable under voltage fluctuations — useful when your WRO robot runs on batteries that may drop slightly under load. • Proven in robotics competitions — it’s a common choice among WRO and other robotics teams, so resources and examples are easy to find. |
+| ![MG996R Servo Motor](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/Models/3D%20designs/Components/MG996R%20Servo%20Motor.jpg) | • High torque (up to 11 kg·cm) for steering and manipulators<br>• Durable metal gears for long-lasting performance<br>• Fast (0.17 s/60°) for precise and quick moves<br>• Easy PWM control with Arduino, Raspberry Pi, or ROS<br>• Affordable and easy to replace<br>• Compact for tight robot spaces<br>• Handles voltage drops well<br>• Widely used in competitions with many resources available |
 
 # 3. Chassis Design 🛠️
 
