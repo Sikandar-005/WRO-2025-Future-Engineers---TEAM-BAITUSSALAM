@@ -9,8 +9,7 @@ This repository presents our self-made robotic system, designed acoording to the
 
 # [TEAM INTRODUCTION](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/edit/main/README.md#team-introduction)
 1. [WHO ARE WE?](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#who-are-we)
-2. [WHERE DO WE COME FROM?](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#-where-do-we-come-fromthe-participants)
-3. [Our Journey](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#-our-journey-)
+2. [Our Journey](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM?tab=readme-ov-file#-our-journey-)
 
 # [Mobility Management](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM#mobility-management-)
 1. [Vehicle Movement Management](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/README.md#1-vehicle-movement-management)
@@ -26,31 +25,12 @@ This repository presents our self-made robotic system, designed acoording to the
 # TEAM INTRODUCTION
 
 # Who are we?
-
-We are a passionate and creative team of young innovators representing our school/country in the WRO 2025 Future Engineers category. Driven by curiosity and a shared vision for a better future, we bring together skills in robotics, programming, engineering design, and teamwork to solve real-world challenges.
-
-Our team thrives on collaboration, critical thinking, and hands-on problem-solving. Each of us contributes unique strengths—whether it's coding intelligent algorithms, designing 3D printable components, optimizing hardware integration, or fine-tuning sensors. Together, we are building more than just a robot—we are building solutions that matter.
-
-With a strong belief in learning by doing, we’ve embraced cutting-edge technologies such as ROS2, IMUs, line sensors, and custom-designed 3D parts to meet the demands of the competition.
-
-We are not just participants—we are future engineers preparing to shape the world.
-# 🌍 Where do we come from(The participants)?
-
-We are a team of aspiring engineers from different cities across Pakistan, brought together by a common passion for robotics and innovation. What unites us is Jamia Baitussalam — an institute where modern science and classical education go hand in hand.
-
-At Jamia Baitussalam, we’re not just students — we’re innovators. The institution fosters a unique blend of Islamic education, modern sciences, and cutting-edge technology. With access to state-of-the-art robotics labs, 3D printing, programming, and AI resources, we are encouraged to explore, invent, and lead.
-
-Our journey in WRO 2025 is a reflection of what Baitussalam stands for: bridging the gap between tradition and technology, and empowering youth to become ethical, forward-thinking engineers of tomorrow.
+We are a team from Pakistan, representing our country and institute in WRO 25(Future Engineers). Our team consists of three memembers-Taha Umer, Zulqarnain, and Sikandar.
+It is our first time participating in any category of WRO.
 
 # 🚀 Our Journey 🌟
+Our journey of WRO dates long back to the time when we were first introduced to 'Robotics'. Robotics not only helped us in learning programming but also taught some many skills like problem-solving, decision-making, patience, and many more. Annyways, now let me take you through our journey of WRO. We started working on this project as soon as we were informed about our participation in it, by our management. It has not been long yet, since we started working. Our jouney is full of problems, hurddles, headaches, and even pessimism but what makes our journey interesting are the moments of success, solving the impossible problems, and fighting against our fate and acheiving 'THE VICTORY'. Our journey yet continues and brings more hurdles. More updates soon...
 
-We are three teammates — Taha Umer, Zulqarnain, and Sikandar — bound together by friendship, teamwork, and a shared passion for technology. We study at Jamia Baitussalam Talagang, an Islamic institute that nurtures both academic excellence and strong moral values.
-
-Our journey began with a simple idea: to step into the world of robotics and engineering through the WRO 2025 Future Engineers challenge. With limited resources but unlimited determination, we started from simple programmes — learning new tools, exploring new technologies, and understanding the real-world applications of robotics.
-
-Along the way, we faced challenges that tested our patience and problem-solving skills — from mechanical design issues to fine-tuning code for better performance. Each challenge became a stepping stone, making our team stronger and our project better.
-
-This repository is the record of our progress — the designs, the code, the experiments, and the lessons learned. For us, this is more than a competition; it’s a journey of growth, learning, and teamwork. And we’re just getting started.
 
 # Mobility Management 🛞
 # 1. Vehicle Movement Management
@@ -66,12 +46,9 @@ The Ackermann steering geometry in the center of the mechanism ensures that both
 | Motor | Specifications |
 |-------|----------------|
 | ![DC Gear motor](https://github.com/user-attachments/assets/288496ce-5f6e-454b-8fb5-fd1dce2e9569) | • Type: Pololu 25D Metal Gearmotor(25mm Brushed DC Gearmotor with Encoder Option) • Voltage: 12 V <br> • No-load Speed: ~300 RPM• Stall Torque: ~11 kg·cm <br> • Stall Current: ~5 A <br>• Encoder: 48-CPR quadrature, ~1632 counts/rev after gearbox|
+
 These motors provide the necessary torque for overcoming ramps and obstacles, while the encoders enable accurate distance measurement and closed-loop speed control. 
-
-
   
-
-
 
 
 
@@ -83,17 +60,11 @@ Implementation: Motors are mounted to custom 3D-printed brackets, connected to 5
 
 
 Type:  MG996R Digital High-Torque Servo Motor
-![MG996R Servo Motor](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/Models/3D%20designs/Components/MG996R%20Servo%20Motor.jpg)
-- Strong enough to lift and steer — with up to 11 kg·cm torque, it can handle steering mechanisms or manipulator arms in a competition robot.
-- Durable metal gears mean fewer breakdowns during long testing sessions or unexpected impacts in the WRO field.
-- Fast and responsive movement (about 0.17s per 60° at 6V) helps in precision steering and quick obstacle maneuvers.
-- Standard PWM control makes it easy to integrate with Arduino, Raspberry Pi, or even ROS-based systems in your WRO build.
-- Affordable and widely available, so replacing one during competition prep is quick and budget-friendly.
-- Compact design allows mounting in tight spaces inside a robot chassis without sacrificing strength.
-- Reliable under voltage fluctuations — useful when your WRO robot runs on batteries that may drop slightly under load.
-- Proven in robotics competitions — it’s a common choice among WRO and other robotics teams, so resources and examples are easy to find.
-# 3. Chassis Design 🛠️
+| Motor | Specifications |
+|-------|----------------|
+| ![MG996R Servo Motor](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/Models/3D%20designs/Components/MG996R%20Servo%20Motor.jpg) | • Strong enough to lift and steer — with up to 11 kg·cm torque, it can handle steering mechanisms or manipulator arms in a competition robot.<br> • Durable metal gears mean fewer breakdowns during long testing sessions or unexpected impacts in the WRO field.<br> • Fast and responsive movement (about 0.17s per 60° at 6V) helps in precision steering and quick obstacle maneuvers.<br> • Standard PWM control makes it easy to integrate with Arduino, Raspberry Pi, or even ROS-based systems in your WRO build.<br> •  Affordable and widely available, so replacing one during competition prep is quick and budget-friendly.<br> • Compact design allows mounting in tight spaces inside a robot chassis without sacrificing strength.<br> • Reliable under voltage fluctuations — useful when your WRO robot runs on batteries that may drop slightly under load. • Proven in robotics competitions — it’s a common choice among WRO and other robotics teams, so resources and examples are easy to find. |
 
+# 3. Chassis Design 🛠️
 
 - Material:  'PETG' is a tough, impact-resistant filament known for its durability, flexibility, and resistance to moisture and chemicals.
 - Layout: Low center of gravity for stability, optimized wheelbase for maneuverability
@@ -129,7 +100,7 @@ This section explains the robot’s power system and sensor suite, explaining co
 # 2. Sensors
 | Sensor Name | Purpose | Reason for selection | Placement on Robot | 
 |----------|----------|----------|----------|
-| Camera Module Raspberry pi | the Raspberry Pi Camera Module acts as the robot’s “eyes,” enabling it to detect lanes, obstacles, and signs, as well as recognize objects using AI models. It supports autonomous navigation and decision-making by providing real-time visual data and can also record runs for later analysis. Overall, it makes the robot smarter, more adaptive, and better prepared for handling complex competition courses | Row 1 C3 |
+| Camera Module Raspberry pi | the Raspberry Pi Camera Module acts as the robot’s “eyes,” enabling it to detect lanes, obstacles, and signs, as well as recognize objects using AI models. It supports autonomous navigation and decision-making by providing real-time visual data and can also record runs for later analysis. Overall, it makes the robot smarter, more adaptive, and better prepared for handling complex competition courses | Raspberry Pi is a great choice for WRO 2025 Future Engineers because it offers powerful processing for AI, computer vision, supports advanced sensors, has built-in Wi-Fi/Bluetooth, fits size and weight limits, and has a huge robotics community for resources and troubleshooting. |
 | Row 2 C1 | Row 2 C2 | Row 2 C3 |
 
 
