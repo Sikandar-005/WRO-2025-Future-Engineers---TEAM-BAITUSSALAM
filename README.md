@@ -59,10 +59,10 @@ Selection Criteria:
 Implementation: Motors are mounted to custom 3D-printed brackets, connected to 5mm G2 pulleys and a 200 mm closed-loop timing belt driving the rear wheels.
 
 
-Type:  MG996R Digital High-Torque Servo Motor
+
 | Motor | Specifications |
 |-------|----------------|
-| ![MG996R Servo Motor](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/Models/3D%20designs/Components/MG996R%20Servo%20Motor.jpg) | • High torque (up to 11 kg·cm) for steering and manipulators<br>• Durable metal gears for long-lasting performance<br>• Fast (0.17 s/60°) for precise and quick moves<br>• Easy PWM control with Arduino, Raspberry Pi, or ROS<br>• Affordable and easy to replace<br>• Compact for tight robot spaces<br>• Handles voltage drops well<br>• Widely used in competitions with many resources available |
+| ![MG996R Servo Motor](https://github.com/Sikandar-005/WRO-2025-Future-Engineers---TEAM-BAITUSSALAM/blob/main/Models/3D%20designs/Components/MG996R%20Servo%20Motor.jpg) | • Type:  MG996R Digital High-Torque Servo Motor<br>• High torque (up to 11 kg·cm) for steering and manipulators<br>• Durable metal gears for long-lasting performance<br>• Fast (0.17 s/60°) for precise and quick moves<br>• Easy PWM control with Arduino, Raspberry Pi, or ROS<br>• Affordable and easy to replace<br>• Compact for tight robot spaces<br>• Handles voltage drops well<br>• Widely used in competitions with many resources available |
 
 # 3. Chassis Design 🛠️
 
@@ -100,7 +100,7 @@ This section explains the robot’s power system and sensor suite, explaining co
 # 2. Sensors
 | Sensor Name | Purpose | Reason for selection | Placement on Robot | 
 |----------|----------|----------|----------|
-| Camera Module Raspberry pi | the Raspberry Pi Camera Module acts as the robot’s “eyes,” enabling it to detect lanes, obstacles, and signs, as well as recognize objects using AI models. It supports autonomous navigation and decision-making by providing real-time visual data and can also record runs for later analysis. Overall, it makes the robot smarter, more adaptive, and better prepared for handling complex competition courses | Raspberry Pi is a great choice for WRO 2025 Future Engineers because it offers powerful processing for AI, computer vision, supports advanced sensors, has built-in Wi-Fi/Bluetooth, fits size and weight limits, and has a huge robotics community for resources and troubleshooting. |
+| Camera Module Raspberry pi | the Raspberry Pi Camera Module acts as the robot’s “eyes,” enabling it to detect lanes, obstacles, and signs, as well as recognize objects using AI models. It supports autonomous navigation and decision-making by providing real-time visual data and can also record runs for later analysis. Overall, it makes the robot smarter, more adaptive, and better prepared for handling complex competition courses | Raspberry Pi is a great choice for WRO 2025 Future Engineers because it offers powerful processing for AI, computer vision, supports advanced sensors, has built-in Wi-Fi/Bluetooth, fits size and weight limits, and has a huge robotics community for resources and troubleshooting. |  |
 | Row 2 C1 | Row 2 C2 | Row 2 C3 |
 
 
