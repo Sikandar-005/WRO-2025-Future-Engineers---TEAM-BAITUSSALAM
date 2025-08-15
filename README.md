@@ -3,7 +3,7 @@
 
 <img width="197" height="256" alt="download" src="https://github.com/user-attachments/assets/0e03e373-d699-4b1d-b68f-fd0811d3ac7c" />
 
-This repository presents our docmentation needed for the WRO 25(Future Engineers). It covers all the aspects of the competition — starting from our team introduction, Robot design, components used, programmes, mechanisms, and the performances. It showcases our team's hardwork and dedictaion to this competition.
+This repository presents our documentation needed for the WRO 25(Future Engineers). It covers all the aspects of the competition — starting from our team introduction, Robot design, components used, programmes, mechanisms, and the performances. It showcases our team's hardwork and dedictaion to this competition.
 
 # Content Table
 
