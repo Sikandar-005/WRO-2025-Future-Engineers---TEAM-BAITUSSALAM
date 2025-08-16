@@ -26,7 +26,7 @@ This repository presents our documentation needed for the WRO 25(Future Engineer
 
 # Who are we?
 We are a team from Pakistan, representing our country and institute in WRO 25(Future Engineers). Our team consists of three memembers-Taha Umer, Zulqarnain, and Sikandar.
-It is our first time participating in any category of WRO.
+It is our first time participating in the WORLD ROBOT OLYMPIAD.
 
 # 🚀 Our Journey 🌟
 Our journey of WRO dates long back to the time when we were first introduced to 'Robotics'. Robotics not only helped us in learning programming and different mechanisms but also taught us many skills like problem-solving, decision-making, patience, and many more. Annyways, now let me take you through our journey of WRO. We started working on this project as soon as we were informed about our participation in it, by our management. It has not been long yet, since we started working. Our jouney is full of problems, hurddles, headaches, and even pessimism but what makes our journey interesting are the moments of success, solving the impossible problems, and fighting against our fate and acheiving 'THE VICTORY'. Our journey yet continues and brings more hurdles. More updates soon...
